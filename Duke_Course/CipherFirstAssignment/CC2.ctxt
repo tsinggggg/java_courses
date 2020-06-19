@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CC2
+comment0.text=\n\ Write\ a\ description\ of\ CC2\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=key1\ key2
+comment1.target=CC2(int,\ int)
+comment2.params=input\ a_search\ a_replace
+comment2.target=java.lang.String\ encrypt(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=input
+comment3.target=java.lang.String\ encrypt(java.lang.String)
+comment4.params=input
+comment4.target=java.lang.String\ decrypt(java.lang.String)
+numComments=5
